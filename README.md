@@ -1,4 +1,4 @@
-# Backend_Minhajul
+# Backend_Minhajul (NextJS app)
 
 #### warning: unstable, untested
 
@@ -43,3 +43,7 @@ POST body: {rider_id, lat, long, timestamp}
 GET: http://localhost:3000/api/get_rider
 <br>
 GET param: {restaurant_id}
+
+## Testing: 
+
+Planned with Mocha
