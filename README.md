@@ -1,6 +1,12 @@
-# Backend_Minhajul (NextJS app)
+# Foodlagbe
 
-#### warning: unstable, untested
+Two REST api routes for food delivery app. One is to save rider info, another is to search for nearest rider.
+<br>
+Built with
+- NextJS
+- POstgreSQL
+
+#### warning: unstable
 
 ## Installation
 
